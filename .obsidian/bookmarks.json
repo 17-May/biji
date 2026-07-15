@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1781255283026,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1781487032529,
+          "items": [],
+          "title": "sql"
+        },
+        {
+          "type": "file",
+          "ctime": 1781255494012,
+          "path": "sortspec.md",
+          "subpath": "#^-"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}
